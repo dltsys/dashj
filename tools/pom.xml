@@ -19,9 +19,9 @@
          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
   <parent>
-      <groupId>org.dashj</groupId>
+      <groupId>com.github.cryptotek.dashj</groupId>
       <artifactId>dashj-parent</artifactId>
-      <version>0.14.4.3</version>
+      <version>v0.14.4.4</version>
   </parent>
   <modelVersion>4.0.0</modelVersion>
 
@@ -92,7 +92,7 @@
 
   <dependencies>
     <dependency>
-      <groupId>org.dashj</groupId>
+      <groupId>com.github.cryptotek.dashj</groupId>
       <artifactId>dashj-core</artifactId>
       <version>${project.parent.version}</version>
     </dependency>

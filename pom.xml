@@ -2,14 +2,13 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
   <modelVersion>4.0.0</modelVersion>
 
-  <groupId>org.dashj</groupId>
+  <groupId>com.github.cryptotek.dashj</groupId>
   <artifactId>dashj-parent</artifactId>
-  <version>0.14.4.3</version>
+  <version>v0.14.4.4</version>
   <packaging>pom</packaging>
 
   <modules>
     <module>core</module>
-    <module>examples</module>
     <module>tools</module>
   </modules>
 
